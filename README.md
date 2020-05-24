@@ -23,13 +23,13 @@ The possibilities are endless.
 Now that you have not done anything it's time to build your application:
 
 ```
-
+print('hello')
 ```
 
 Yep. That's it. You should see the following output:
 
 ```
-
+hello
 ```
 
 ### Deploying
